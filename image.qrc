@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image.qrc</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>mainwindow.ui</file>
+        <file>Oito_Rainhas.pro</file>
+        <file>rainha.png</file>
+        <file>back.png</file>
+        <file>next.png</file>
+    </qresource>
+</RCC>
